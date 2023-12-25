@@ -1,1 +1,0 @@
--wto "3a9aaefdcd9d4236b8ff608ba84b1766" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Decoder_2_to_4_Sim_behav" "xil_defaultlib.Decoder_2_to_4_Sim" -log "elaborate.log" 
