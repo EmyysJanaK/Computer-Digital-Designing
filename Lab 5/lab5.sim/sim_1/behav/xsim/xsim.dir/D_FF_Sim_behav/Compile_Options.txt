@@ -1,1 +1,0 @@
--wto "79bbac49656543af80941593c5a3c5c0" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "D_FF_Sim_behav" "xil_defaultlib.D_FF_Sim" -log "elaborate.log" 
