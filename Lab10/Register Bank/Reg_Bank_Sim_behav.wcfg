@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Reg_Bank_Sim_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Reg_Bank_Sim" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1000000001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="159"></NameColumnWidth>
+      <ValueColumnWidth column_width="119"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/Reg_Bank_Sim/Reg_EN_TB" type="array">
+      <obj_property name="ElementShortName">Reg_EN_TB[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_EN_TB[2:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/Reg_Bank_Sim/Reg_Bank_In_TB" type="array">
+      <obj_property name="ElementShortName">Reg_Bank_In_TB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_Bank_In_TB[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/Reg_Bank_Sim/REG_0_OUT_TB" type="array">
+      <obj_property name="ElementShortName">REG_0_OUT_TB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">REG_0_OUT_TB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Reg_Bank_Sim/REG_1_OUT_TB" type="array">
+      <obj_property name="ElementShortName">REG_1_OUT_TB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">REG_1_OUT_TB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Reg_Bank_Sim/REG_2_OUT_TB" type="array">
+      <obj_property name="ElementShortName">REG_2_OUT_TB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">REG_2_OUT_TB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Reg_Bank_Sim/REG_3_OUT_TB" type="array">
+      <obj_property name="ElementShortName">REG_3_OUT_TB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">REG_3_OUT_TB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Reg_Bank_Sim/REG_4_OUT_TB" type="array">
+      <obj_property name="ElementShortName">REG_4_OUT_TB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">REG_4_OUT_TB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Reg_Bank_Sim/REG_5_OUT_TB" type="array">
+      <obj_property name="ElementShortName">REG_5_OUT_TB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">REG_5_OUT_TB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Reg_Bank_Sim/REG_6_OUT_TB" type="array">
+      <obj_property name="ElementShortName">REG_6_OUT_TB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">REG_6_OUT_TB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Reg_Bank_Sim/REG_7_OUT_TB" type="array">
+      <obj_property name="ElementShortName">REG_7_OUT_TB[3:0]</obj_property>
+      <obj_property name="ObjectShortName">REG_7_OUT_TB[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Reg_Bank_Sim/Reset_TB" type="logic">
+      <obj_property name="ElementShortName">Reset_TB</obj_property>
+      <obj_property name="ObjectShortName">Reset_TB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Reg_Bank_Sim/Clk_TB" type="logic">
+      <obj_property name="ElementShortName">Clk_TB</obj_property>
+      <obj_property name="ObjectShortName">Clk_TB</obj_property>
+   </wvobject>
+</wave_config>
