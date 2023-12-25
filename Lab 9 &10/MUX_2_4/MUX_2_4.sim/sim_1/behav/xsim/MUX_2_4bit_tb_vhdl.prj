@@ -1,6 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../MUX_2_4.srcs/sim_1/new/MUX_2_4bit_tb.vhd" \
-
-# Do not sort compile order
-nosort

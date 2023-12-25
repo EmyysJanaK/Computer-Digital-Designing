@@ -1,1 +1,0 @@
--wto "9bcc650c7ac44c969ee10e25308923ce" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Mux_2x3_Sim_behav" "xil_defaultlib.Mux_2x3_Sim" -log "elaborate.log" 

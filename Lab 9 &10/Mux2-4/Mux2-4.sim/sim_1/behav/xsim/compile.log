@@ -1,4 +1,0 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/janak/Lab10/Mux2-4/Mux2-4.srcs/sources_1/imports/new/Mux_2x3.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity MUX_2_3bit
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/janak/Lab10/Mux2-4/Mux2-4.srcs/sim_1/imports/new/Mux_2x4_Sim.vhd" into library xil_defaultlib
-INFO: [VRFC 10-307] analyzing entity Mux_2x3_Sim
